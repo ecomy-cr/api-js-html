@@ -1,0 +1,9 @@
+configuracion inicial de git
+
+git config --global user.name "ecomy-cr"
+
+git config --global user.email "your_email_address@example.com"
+
+git config --global --list
+
+git clone https://gitlab.com/gitlab-tests/sample-project.git 

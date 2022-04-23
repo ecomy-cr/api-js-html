@@ -1,0 +1,9 @@
+body {
+    background: #1b554a; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #ae95ca, #2d7064); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #9b463b, #74a9db); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.centered {
+    text-align: center;
+    vertical-align: middle;
+}
