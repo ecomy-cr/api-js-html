@@ -7,3 +7,34 @@ git config --global user.email "your_email_address@example.com"
 git config --global --list
 
 git clone https://gitlab.com/gitlab-tests/sample-project.git 
+
+configuracion inicial de git
+
+git config --global user.name "ecomy-cr"
+
+git config --global user.email "jeisonr0992@gmail.com"
+
+git config --global --list
+
+git clone https://gitlab.com/gitlab-tests/sample-project.git 
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ecomy-cr/api-js-html.git
+git push -u origin main
+
+
+
+
+    Go to GitHub
+    Click on the profile picture
+    Select setting
+    Select Developer settings
+    Select Personal access tokens
+    Click on Generate new token
+    Type Expiration time
+    Select your preferred scopes
+    Click on Generate token
+    Finally, you can copy that token and use it to authenticate
+
